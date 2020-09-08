@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Hiking Club Threat Model",
+    "owner": "Andrew Durham",
+    "description": "Hiking club application threat model"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Threat Model",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Andrew Durham"
+  }
+}
